@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Robot-ISCARA
 To repozytorium projektu Robot ISCARA. 
 ## ISCARA
@@ -27,3 +28,6 @@ Komenda pozwalająca na ruch robota:
 - 34 mm w osi y 
 - 56 mm w osi z
 - obrót o 10 stopni
+=======
+# ISCARA
+>>>>>>> 7187fa458ff5fc01ef0e9a9a435877429fcff328
